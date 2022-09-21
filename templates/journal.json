@@ -1,0 +1,20 @@
+   {
+        "folder": "FOLDER",
+        "name": "NAME",
+        "pages": [],
+        "sort": 0,
+        "ownership": {
+            "default": 0,
+            "dgPjbLfv9isVJYk7": 3
+        },
+        "flags": {},
+        "_stats": {
+            "systemId": "pf2e",
+            "systemVersion": "4.0.5",
+            "coreVersion": "10.285",
+            "createdTime": 1663647781174,
+            "modifiedTime": 1663648126131,
+            "lastModifiedBy": "dgPjbLfv9isVJYk7"
+        },
+        "_id": ""
+}

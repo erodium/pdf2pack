@@ -1,0 +1,91 @@
+{
+    "name": "NAME",
+    "active": true,
+    "navigation": true,
+    "navOrder": 0,
+    "navName": "",
+    "background": {
+        "src": "",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 57,
+        "offsetY": -2,
+        "rotation": 0,
+        "tint": null
+    },
+    "foreground": null,
+    "foregroundElevation": 20,
+    "thumb": "",
+    "width": 2800,
+    "height": 3624,
+    "padding": 0.25,
+    "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+    },
+    "backgroundColor": "#999999",
+    "grid": {
+        "type": 1,
+        "size": 93,
+        "color": "#000000",
+        "alpha": 0.2,
+        "distance": 5,
+        "units": "ft"
+    },
+    "tokenVision": false,
+    "fogExploration": false,
+    "fogReset": 1663468239368,
+    "globalLight": false,
+    "globalLightThreshold": null,
+    "darkness": 0,
+    "fogOverlay": null,
+    "fogExploredColor": null,
+    "fogUnexploredColor": null,
+    "drawings": [],
+    "tokens": [],
+    "lights": [],
+    "notes": [],
+    "sounds": [],
+    "templates": [],
+    "tiles": [],
+    "walls": [],
+    "playlist": null,
+    "playlistSound": null,
+    "journal": null,
+    "journalEntryPage": null,
+    "weather": "",
+    "folder": "FOLDER",
+    "sort": 200000,
+    "ownership": {
+        "default": 0,
+        "dgPjbLfv9isVJYk7": 3
+    },
+    "flags": {
+        "perfect-vision": {
+            "revealed": false,
+            "sightLimit": null,
+            "daylightColor": "",
+            "darknessColor": "",
+            "saturation": null
+        },
+        "exportSource": {
+            "world": "WORLD",
+            "system": "pf2e",
+            "coreVersion": "9.269",
+            "systemVersion": "3.13.4.15"
+        },
+        "core": {
+            "sourceId": ""
+        }
+    },
+    "_stats": {
+        "systemId": "pf2e",
+        "systemVersion": "4.0.5",
+        "coreVersion": "10.285",
+        "createdTime": null,
+        "modifiedTime": 1663648548453,
+        "lastModifiedBy": "dgPjbLfv9isVJYk7"
+    },
+    "_id": ""
+}

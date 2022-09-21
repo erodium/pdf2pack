@@ -1,0 +1,9 @@
+*venv
+*.db
+template.json
+test_template.json
+*.html
+.idea
+pdfs
+__pycache__
+av.json
